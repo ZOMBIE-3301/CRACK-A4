@@ -1,11 +1,16 @@
 👽 THIS TOOL IS FREE SO YOU NO NEEDED PERMISSION 👽
--
---
----
+
+
+
+
+
+
 FOLLOW ME ON YOUTUBE C.NAME: Joker Vaiya Sakib
--
---
----
+
+
+
+
+
 COMMAND 👇
 
 
@@ -18,9 +23,11 @@ COMMAND 👇
 
 
 👽 python dx-sakib.py
-_
-__
-___
+
+
+
+
+
 
 
 
