@@ -5,7 +5,7 @@
 
 
 
-FOLLOW ME ON YOUTUBE C.NAME: Joker Vaiya Sakib
+FOLLOW ME ON YOUTUBE C.NAME: Devil Vaiya Xakib
 
 
 
@@ -22,7 +22,7 @@ COMMAND 👇
 
 
 
-👽 python dx-sakib.py
+👽 python xxdsakib.py
 
 
 
